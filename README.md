@@ -16,7 +16,7 @@ Aplicación web estática para generar comunicaciones vinculadas con el proceso 
 
 ## Reglas incorporadas
 
-- El orden de recuperación es: préstamo de nómina con MasNómina, retroactivo y, como última fuente, AFORE.
+- El orden de recuperación es: Préstamo de descuento vía Nómina, retroactivo y, como última fuente, AFORE.
 - No existe una etapa de recuperación posterior a AFORE.
 - El proyecto debe estructurarse para liquidarse, como máximo, con AFORE antes de llegar a GPF.
 - GPF solo comunica un nuevo saldo después de recibir, conciliar y registrar el pago.
